@@ -1,0 +1,36 @@
+body{
+  background-color:grey;
+  margin: 0;
+  padding: 5px;
+
+}
+.post {
+  background-color: white;
+  width: 500px;
+  margin: auto;
+}
+.post img{
+  width: 100%;
+}
+.dots{
+  display: inline-block;
+  width: 5%;
+  color:gray;
+  padding-right:5px;
+}
+.Name-Icon{
+  display: inline-block;
+  width: 90%;
+  margin:auto;
+  padding:0%;
+  padding-left: 5px;
+  font-size: small;
+}
+.bookmark{
+  display: inline-block;
+  width: 5%;
+}
+.Intro{
+  display: inline-block;
+  width: 90%;
+}
