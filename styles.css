@@ -20,11 +20,13 @@ body{
 }
 .Name-Icon{
   display: inline-block;
-  width: 90%;
+  width: 85%;
   margin:auto;
   padding:0%;
-  padding-left: 5px;
-  font-size: medium;
+  padding-left:10px;
+  padding-top: 10px;
+  padding-bottom:5px;
+  font-size: small;
 }
 .bookmark{
   display: inline-block;
