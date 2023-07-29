@@ -1,13 +1,14 @@
 body{
   background-color:grey;
   margin: 0;
-  padding: 5px;
+  padding: 15px;
 
 }
 .post {
   background-color: white;
   width: 500px;
   margin: auto;
+  padding: 10px;
 }
 .post img{
   width: 100%;
